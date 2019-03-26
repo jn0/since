@@ -1,0 +1,14 @@
+/*
+ * since plugin extension - style additions
+ *
+ * @author  jno <jno@pisem.net>
+ * @link    http://jno.homeip.net/dokuwiki/doku/?id=since
+ * @derived my colortag plugin
+ */
+
+/* layout */
+span.since { font-size: x-small; font-style: italic }
+span.since:before { content: '(' }
+span.since:after { content: ')' }
+
+/* end since plugin style additions */
