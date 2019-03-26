@@ -1,0 +1,7 @@
+base   since
+author jno
+email  jno@pisem.net
+date   2013-04-02
+name   since plugin
+desc   adds <since> syntax
+url    https://jno.undo.it/since.zip
